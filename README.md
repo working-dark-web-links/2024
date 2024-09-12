@@ -1,4 +1,4 @@
-# Working Dark web links 2024, Start your Tor browsing
+# Working Dark web links 2024
 Your source of TOR knownledge (Guides, tor links, tor directory, TOR onion links, dark web links)
 
 ⚠️ The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
