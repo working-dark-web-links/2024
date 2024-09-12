@@ -14,6 +14,11 @@ Your source of TOR knownledge (Guides, tor links, tor directory, TOR onion links
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
 | Twitter | [twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion) |
 | Breaking Bad Forum | [bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion](http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion) |
+| ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
+| D.N.M.X | [dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion) |
+| Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
+| Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
+
 
 
 ## Commercial TOR markets
@@ -34,20 +39,6 @@ Your source of TOR knownledge (Guides, tor links, tor directory, TOR onion links
 | Account Store | [accountmwyiilytqztx6s45k5a6ud57x3gzmtumljheym5lqwelapaid.onion](http://accountmwyiilytqztx6s45k5a6ud57x3gzmtumljheym5lqwelapaid.onion) |
 
 
-## Email Providers (Tor Hidden Service)
-
-| Provider | Tor Links |
-| --- | --- |
-| ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
-| D.N.M.X | [dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion) |
-
-
-## Cryptocurrency related
-
-| Site | Dark web links |
-| --- | --- |
-| Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
-| Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
 
 # How to access dark net links?
 
@@ -107,6 +98,20 @@ This github page is maintained by voluteers, that makes this page get updated mo
 There are some darknet search engines mostly created by amateurs and they are very limited due to hidden services nature.
 
 Before accessing any darknet site, make sure that it’s legal in your country to browse content that they contain.
+
+
+# Link doesn't work - is the website dead?
+
+Tor network is run by volunteers and Tor relays are often overloaded. If you can't access an .onion link or you see an error, this doesn't always mean that the website was shut down. In most cases .onion service is working but unreachable due to network overload. Try to open the .onion website in few hours or days. Add the website to bookmarks by pressing CTRL+D to save its link in Tor Browser.
+
+The most common reasons you can't access an .onion link are:
+
+- the website is off temporarily (try again later)
+- the website is under high load (e.g. DDOS attack)
+- slow relays (press Ctrl+Shift+L to try another route)
+- unstable connection (check your connectivity)
+- your ISP blocks Tor (configure Tor Browser to use a bridge)
+  
 
 # Who created Tor?
 
