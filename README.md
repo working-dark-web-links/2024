@@ -124,4 +124,14 @@ https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
 
 https://brave.com/
 
-https://hiddenwiki.pw/
+[Hidden wiki](https://hiddenwiki.pw/)
+
+[Dark web links](https://darkweblinks.pw/)
+
+[Dark net links](https://darknetlinks.pw/)
+
+[Deep web links](https://deep-web.link/)
+
+[Deep net links](https://deep-net.link/)
+
+[Dark web links 2024](https://working-dark-web-links.github.io/2024/)
