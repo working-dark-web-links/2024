@@ -18,6 +18,7 @@ Your source of TOR knownledge (Guides, tor links, tor directory, TOR onion links
 | D.N.M.X | [dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion) |
 | Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
 | Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
+| High privacy crypto exchange service | [qkiw4pl4qlxui26nsbjnxei323x7ptqcf765a6koxlzcox35udmihsid.onion/en/](http://qkiw4pl4qlxui26nsbjnxei323x7ptqcf765a6koxlzcox35udmihsid.onion/en/) |
 
 
 
